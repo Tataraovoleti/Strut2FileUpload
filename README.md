@@ -16,5 +16,5 @@ Conventions to Fallow while Uploading Files through Struts2 Framwork
 <b>FileUploadAction.java</b>
 
 1. If our file field name is UploadImage Then we need to take two more properties in Struts Action.<br>
-2. The two properties of String type must fallow the convention. <uploadImage>FileName, <uploadImage>ContentType.<br>
+2. The two properties of String type must fallow the convention. &lt;uploadImage&gt;FileName,&lt;uploadImage&gt;ContentType.<br>
 3. We need to create setters and getters for the two above properties.
